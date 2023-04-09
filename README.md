@@ -4,9 +4,8 @@ I am an Electrical Engineer🎓⚡ with over 6 years of experience in Telecommun
 
 ### Github Stats
 
-![Jordanluiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jordanluiz&count_private=true&&show_icons=true&theme=github_dark  )
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jordanluiz&count_private=true&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Jordanluiz's GitHub stats](https://github-readme-stats.vercel.app/api?style=for-the-badge&username=Jordanluiz&count_private=true&show_icons=true&theme=transparent&hide_border=true&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?style=for-the-badge&username=Jordanluiz&layout=compact&theme=transparent&hide_border=true&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Skills
 
