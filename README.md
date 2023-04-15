@@ -2,6 +2,13 @@
 
 I am an Electrical Engineer🎓⚡ with over 6 years of experience in Telecommunications and more than 3 years as a Python Developer. As a student at École 42 - Porto, I have a passion for programming and technology 💻, and apply my knowledge to optimize fiber optic projects by enhancing and automating processes. I have strong experience with QGIS and GIS tools 🌎, and believe that technology is a powerful tool to solve complex problems. I am always seeking to improve my skills and collaborate with multidisciplinary teams to achieve innovative and sustainable results.
 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordanfilgueiras/) 
+[![insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jordanluizd/) 
+[![face](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jordanluiz1996) 
+[![E-Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jordanluiz1996@gmail.com)
+
+
 ### Github Stats
 
 [![Jordanluiz's GitHub stats](https://github-readme-stats.vercel.app/api?style=for-the-badge&username=Jordanluiz&count_private=true&show_icons=true&theme=github_dark&hide_border=true&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
