@@ -1,11 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Jordan 👋
 
 I am an Electrical Engineer🎓⚡ with over 6 years of experience in Telecommunications and more than 3 years as a Python Developer. As a student at École 42 - Porto, I have a passion for programming and technology 💻, and apply my knowledge to optimize fiber optic projects by enhancing and automating processes. I have strong experience with QGIS and GIS tools 🌎, and believe that technology is a powerful tool to solve complex problems. I am always seeking to improve my skills and collaborate with multidisciplinary teams to achieve innovative and sustainable results.
 
 ### Github Stats
 
-[![Jordanluiz's GitHub stats](https://github-readme-stats.vercel.app/api?style=for-the-badge&username=Jordanluiz&count_private=true&show_icons=true&theme=transparent&hide_border=true&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?style=for-the-badge&username=Jordanluiz&layout=compact&theme=transparent&hide_border=true&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
+[![Jordanluiz's GitHub stats](https://github-readme-stats.vercel.app/api?style=for-the-badge&username=Jordanluiz&count_private=true&show_icons=true&theme=github_dark&hide_border=true&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?style=for-the-badge&username=Jordanluiz&layout=compact&theme=github_dark&hide_border=true&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Skills
 
