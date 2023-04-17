@@ -15,6 +15,11 @@ I am an Electrical Engineer🎓⚡ with over 6 years of experience in Telecommun
 
 [![Jordanluiz's GitHub stats](https://github-readme-stats.vercel.app/api?style=for-the-badge&username=Jordanluiz&count_private=true&show_icons=true&theme=github_dark&hide_border=true&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 
+### 42 Porto progress
+
+[![jfilguei's 42 stats](https://badge42.vercel.app/api/v2/clgko7v10012108laazt3j13n/stats?cursusId=9&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
+
+[![jfilguei's 42 stats](https://badge42.vercel.app/api/v2/clgko7v10012108laazt3j13n/stats?cursusId=21&coalitionId=292)](https://github.com/JaeSeoKim/badge42)
 ### Skills
 
 <div>
