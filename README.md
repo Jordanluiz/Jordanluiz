@@ -21,20 +21,12 @@ I am an Electrical Engineer🎓⚡ with over 6 years of experience in Telecommun
 
 [![jfilguei's 42 stats](https://badge42.vercel.app/api/v2/clgko7v10012108laazt3j13n/stats?cursusId=21&coalitionId=292)](https://github.com/JaeSeoKim/badge42)
 ### Skills
+[![My Skills](https://skillicons.dev/icons?i=c,python,git,github,bash,linux,vim,vscode,markdown,autocad,flask,postgres)](https://skillicons.dev)
 
-<div>
-	<img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=Python&logoColor=FFFFFF" alt="Python">
-	<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-	<img src="https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=SQL&logoColor=FFFFFF" alt="SQL">
-	<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="MD">
-	<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
-
-</div>
 
 ### Tools
 
 <div>
-	<img src="https://img.shields.io/badge/Git-FF5500?style=for-the-badge&logo=Git&logoColor=FFFFFF" alt="Git">
 	<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=FFFFFF" alt="GitHub">
 	<img src="https://img.shields.io/badge/Ubuntu-orange?style=for-the-badge&logo=Ubuntu&logoColor=FFFFFF" alt="Ubuntu">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windowns">
