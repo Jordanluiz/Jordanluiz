@@ -1,6 +1,6 @@
 ### Hi there, I'm Jordan 👋
 
-I am an Electrical Engineer🎓⚡ with over 6 years of experience in Telecommunications and more than 3 years as a Python Developer. As a student at École 42 - Porto, I have a passion for programming and technology 💻, and apply my knowledge to optimize fiber optic projects by enhancing and automating processes. I have strong experience with QGIS and GIS tools 🌎, and believe that technology is a powerful tool to solve complex problems. I am always seeking to improve my skills and collaborate with multidisciplinary teams to achieve innovative and sustainable results.
+I am an Electrical Engineer🎓⚡ with over 6 years of experience in Telecommunications and more than 3 years as a Python Developer. I have a passion for programming and technology 💻, and apply my knowledge to optimize fiber optic projects by enhancing and automating processes. I have strong experience with QGIS and GIS tools 🌎, and believe that technology is a powerful tool to solve complex problems. I am always seeking to improve my skills and collaborate with multidisciplinary teams to achieve innovative and sustainable results.
 
 
 
@@ -15,14 +15,8 @@ I am an Electrical Engineer🎓⚡ with over 6 years of experience in Telecommun
 
 [![Jordanluiz's GitHub stats](https://github-readme-stats.vercel.app/api?style=for-the-badge&username=Jordanluiz&count_private=true&show_icons=true&theme=github_dark&hide_border=true&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 
-### 42 Porto progress
-
-[![jfilguei's 42 stats](https://badge42.vercel.app/api/v2/clgko7v10012108laazt3j13n/stats?cursusId=9&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
-
-[![jfilguei's 42 stats](https://badge42.vercel.app/api/v2/clgko7v10012108laazt3j13n/stats?cursusId=21&coalitionId=292)](https://github.com/JaeSeoKim/badge42)
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=c,python,git,github,bash,linux,vim,vscode,markdown,autocad,flask,postgres)](https://skillicons.dev)
-
 
 ### Tools
 
